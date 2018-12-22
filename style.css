@@ -1,0 +1,29 @@
+div{
+	border:solid 3px;
+	color:pink;
+	margin:5px;
+	background: blue;
+    }
+#b1{
+	background:yellow;
+    }
+.k{
+	background:grey;
+	padding:5px;
+    }
+#b3{
+	width:40%;
+	float:left;
+    }
+#b4{
+	width:55%;
+	float:left;
+    }
+#b5{
+	width:25%;
+	float:left;
+    }
+#b6{
+	clear:both;
+
+}
